@@ -1,7 +1,5 @@
 ### hi 👋
 
-https://img.shields.io/badge/${javascript}-${studing}-${red}.svg
-
 <!--
 **amitB034/amitB034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://img.shields.io/badge/${javascript}-${studing}-${red}.svg
